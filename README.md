@@ -1,8 +1,9 @@
 # Link Rewrite
 A simple link shortener using Cloudflare Workers
 ## Setup 
-1.Clone this repo to your GitHub account
+1. Clone this repo to your GitHub account
 2. Create a JSON file using the following syntax:
+
 ```
 [
     {
