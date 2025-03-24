@@ -14,7 +14,7 @@
     "@cloudflare/workers-types": "^4.20241018.0",
     "typescript": "^5.8.2",
     "vitest": "3.0.5",
-    "wrangler": "^3.107.3"
+    "wrangler": "^4.4.0"
   },
   "dependencies": {
     "dotenv": "^16.4.7"
